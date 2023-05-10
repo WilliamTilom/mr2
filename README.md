@@ -1,4 +1,4 @@
-holahhooohhhhhllllllllllllgit 
+
 
 Abrir la consola e imprimir la ubicación actual. pwd
 
